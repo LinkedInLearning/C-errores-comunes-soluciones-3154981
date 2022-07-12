@@ -2,7 +2,7 @@
 
 Este es el repositorio del curso de LinkedIn Learning `C: Errores comunes y cómo solucionarlos`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![image](https://user-images.githubusercontent.com/61017085/177986793-d08ff1f3-83d3-4134-8785-3b695ba32a93.png)
+![image](https://user-images.githubusercontent.com/61017085/178537527-bd093c84-216b-418d-a02a-654ad861d8f7.png)
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
